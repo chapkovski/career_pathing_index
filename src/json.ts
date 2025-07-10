@@ -225,11 +225,7 @@ export const json = {
     {
       "name": "page_q9",
       "elements": [
-        {
-          "type": "html",
-          "name": "researcher_card1",
-          "html": "<div style=\"border:1px solid #ccc; border-radius:8px; padding:16px; background-color:#f9f9f9; margin-bottom:16px; box-shadow:0 2px 4px rgba(0,0,0,0.1);\"><h4 style=\"margin-top:0;\"></h4><p>Two researchers approach you. One study involves 5 hours on your top‐choice topic. The other connects to something you like (e.g. your college minor). Both pay $50/hour, but researcher #2 will pay more.</p><p style=\"font-size:0.9em; color:#555;\"><em>Assume full-time employment, financial comfort, and that this takes place on a free Saturday.</em></p></div>"
-        },
+      
         {
           "type": "rating",
           "name": "q9a",
